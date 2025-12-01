@@ -243,5 +243,3 @@ Es ideal como proyecto educativo o como punto de partida para herramientas más 
 
 ---
 
-## 🟦 Resumen corto (para la descripción del repositorio)
-> Aplicación en Scala y Apache Spark para consultar y analizar datos financieros (acciones y criptomonedas), con opción de elegir entre datos del día o históricos. Procesa series temporales (OHLCV), exporta a Excel y genera gráficos de precios usando XChart.
